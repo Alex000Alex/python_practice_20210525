@@ -11,7 +11,7 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
 import os, sys
-
+ 
 #面目全非亂改亂測試，哇哈哈哈~~
 def replace_filename_extension2(path,src, dst):
     print(src) #src – 要修改的目录名
