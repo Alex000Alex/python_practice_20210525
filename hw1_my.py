@@ -60,13 +60,6 @@ def replace_filename_extension(images_path, new_extension='.jpg'):
                 print('%d位置指向不存在~~'%x)
 
 
-            
-                   
- 
-
-
-
-
     #os.rename(images_path, new_extension)
     pass
 
